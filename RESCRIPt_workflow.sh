@@ -1,3 +1,7 @@
+
+#Author: David J. Bradshaw, Ph.D. 
+#Emails: djbradshaw2015@fau.edu, dbradshaw3366@gmail.com
+
 conda create -n rescript -c conda-forge -c bioconda -c qiime2 -c defaults \
 qiime2=2021.2.0=py36_0 q2cli=2021.2.0=py36_0 q2templates=2021.2.0=py36_0 q2-types=2021.2.0=py36_0 \
 q2-longitudinal=2021.2.0=py36_0 q2-feature-classifier=2021.2.0=py36_0 "pandas>=0.25.3" xmltodict=0.12.0=py_0
