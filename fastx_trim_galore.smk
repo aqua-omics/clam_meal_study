@@ -1,3 +1,6 @@
+#Author: David J. Bradshaw, Ph.D. & Nicholas Dickens, Ph.D.
+#Emails: djbradshaw2015@fau.edu, dbradshaw3366@gmail.com
+
 #snakemake -s 'filepath to snakefile'
 
 import sys
