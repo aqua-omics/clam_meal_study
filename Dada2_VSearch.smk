@@ -5,6 +5,9 @@ https://github.com/LangilleLab/microbiome_helper/wiki/Amplicon-SOP-v2
 source activate qiime2-2020.6
 """
 
+#Authors: David J. Bradshaw, Ph.D. & Nicholas Dickens, Ph.D.
+#Emails: djbradshaw2015@fau.edu, dbradshaw3366@gmail.com
+
 #snakemake -s '/home/microbiology/NICK/forwards.snakefile'  --configfile '/home/microbiology/NICK/forwards.json'
 
 import multiprocessing
