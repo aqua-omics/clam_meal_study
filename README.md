@@ -2,4 +2,4 @@ This study was conducted to determine how the health, fatty acid profiles, gut m
 
 Authors: David J. Bradshaw, Ph.D. & Nicholas Dickens, Ph.D.
 
-Emails: djbradshaw2015@fau.edu, dbradshaw3366@gmail.com
+Emails: dbradshaw2015@fau.edu, dbradshaw3366@gmail.com
