@@ -1,5 +1,5 @@
 #Author: David J. Bradshaw, Ph.D. 
-#Emails: djbradshaw2015@fau.edu, dbradshaw3366@gmail.com
+#Emails: dbradshaw2015@fau.edu, dbradshaw3366@gmail.com
 
 ###PREPPING YOUR R ENVIRONMENT###
 
